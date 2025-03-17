@@ -13,12 +13,12 @@ for any question you can conact me on: salti.yuval@gmail.com
 
 ## RISC-V base instruction formats showing immediate variants
 
-![alt text](<RISC-V-CPU-Core/Images/RISC-V base instruction formats showing immediate variants.png>)
+![alt text](<Images/RISC-V base instruction formats showing immediate variants.png>)
 
 ## RISC-V CPU Block Diagram
 
-![alt text](<RISC-V-CPU-Core/Images/RISC-V CPU Block Diagram.png>)
+![alt text](<Images/RISC-V CPU Block Diagram.png>)
 
 ## Image of the core
 
-![alt text](<RISC-V-CPU-Core/Images/RISCV - project.png>)
+![alt text](<Images/RISCV - project.png>)
