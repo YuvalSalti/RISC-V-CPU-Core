@@ -11,6 +11,14 @@ In the end  I earned a [edX Verified Certificate for Building a RISC-V CPU Core]
 
 for any question you can conact me on: salti.yuval@gmail.com
 
+## RISC-V base instruction formats showing immediate variants
+
+![alt text](<RISC-V-CPU-Core/Images/RISC-V base instruction formats showing immediate variants.png>)
+
+## RISC-V CPU Block Diagram
+
+![alt text](<RISC-V-CPU-Core/Images/RISC-V CPU Block Diagram.png>)
+
 ## Image of the core
 
-![alt text](<RISCV - project.png>)
+![alt text](<RISC-V-CPU-Core/Images/RISCV - project.png>)
